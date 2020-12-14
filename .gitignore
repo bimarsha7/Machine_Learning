@@ -1,9 +1,18 @@
 .ipynb_checkpoints
+<<<<<<< HEAD
 .ipython/
+=======
+
+.ipython/profile_default
+
+>>>>>>> 2a7929acba83d5efe9f36bece0fa3df01d78a647
 .cache
+
 .jupyter
-.local
+
+.local/share/jupyter
 .logs
 .ssh
 .vscode
 .setup
+.wget
