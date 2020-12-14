@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.ipython
+.cache
+.jupyter
+.local
+.logs
+.ssh
+.vscode
+.setup
